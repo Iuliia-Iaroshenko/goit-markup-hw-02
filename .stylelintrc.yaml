@@ -22,8 +22,7 @@ rules:
     - ignore:
         - inside-parens
   max-empty-lines: 2
-  rule-empty-line-before:
-    - always
+ 
     - except:
         - first-nested
       ignore:
